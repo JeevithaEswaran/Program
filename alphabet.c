@@ -12,11 +12,11 @@ void main()
     }
     else if(ch >= '0' && ch <= '9')
     {
-        printf("%c is DIGIT.\n", ch);
+        printf("\n%c is DIGIT", ch);
     }
     else 
     {
-        printf("%c is SPECIAL CHARACTER.\n", ch);
+        printf("\n%c is SPECIAL CHARACTER", ch);
     }
 getch();
 } 
