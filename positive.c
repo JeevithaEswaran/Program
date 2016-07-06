@@ -4,7 +4,7 @@ void main()
 {
 int n;
 clrscr();
-printf("Enter a number:");
+printf("Enter a number : ");
 scanf("%d",&n);
 if(n==0)
   printf("The given number is neither positive nor negative");
