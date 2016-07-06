@@ -9,6 +9,6 @@ scanf("%d",&n);
 if(n%4==0)
   printf("\nThe given year is a leap year");
 else
-  printf("\nThe given year is not aleap year");
+  printf("\nThe given year is not a leap year");
 getch();
 }
