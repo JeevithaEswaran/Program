@@ -14,7 +14,7 @@ for(i=2;i<=n/2;i++)
   else
     break;
 }
-if(count=>1)
+if(count==0)
   printf("Given number is a prime number");
 else
   printf("Given number is not a prime number");
