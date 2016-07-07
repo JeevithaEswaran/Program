@@ -6,7 +6,7 @@ int a,b,i;
 clrscr();
 printf("\nEnter first and last number : ");
 scanf("\n%d\t%d",&a,&b);
-printf("\nEven numbers between %d and %d:",a,b);
+printf("\nOdd numbers between %d and %d:",a,b);
 for(i=a;i<=b;i++)
 {
 if(i%2==1)
